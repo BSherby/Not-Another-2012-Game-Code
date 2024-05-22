@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 606c31c19a648084995b2f73566db842
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3120090756559432848
+    second: Mistress Ribeye Explosive Death_0
+  - first:
+      213: 464155296174847302
+    second: Mistress Ribeye Explosive Death_1
+  - first:
+      213: 6103327806392358703
+    second: Mistress Ribeye Explosive Death_2
+  - first:
+      213: -2649203166398522686
+    second: Mistress Ribeye Explosive Death_3
+  - first:
+      213: -1976886957052658135
+    second: Mistress Ribeye Explosive Death_4
+  - first:
+      213: 3476280435439471204
+    second: Mistress Ribeye Explosive Death_5
+  - first:
+      213: -1176926958445082781
+    second: Mistress Ribeye Explosive Death_6
+  - first:
+      213: -8493837506962536048
+    second: Mistress Ribeye Explosive Death_7
+  - first:
+      213: -5779514624753312269
+    second: Mistress Ribeye Explosive Death_8
+  - first:
+      213: 8428057999906254445
+    second: Mistress Ribeye Explosive Death_9
+  - first:
+      213: -5402225524003982650
+    second: Mistress Ribeye Explosive Death_10
+  - first:
+      213: -6601495238813723
+    second: Mistress Ribeye Explosive Death_11
+  - first:
+      213: -3426824636279797057
+    second: Mistress Ribeye Explosive Death_12
+  - first:
+      213: 2330643423086514202
+    second: Mistress Ribeye Explosive Death_13
+  - first:
+      213: -3955301506467102845
+    second: Mistress Ribeye Explosive Death_14
+  - first:
+      213: -4527348839688013227
+    second: Mistress Ribeye Explosive Death_15
+  - first:
+      213: 6651332621103762979
+    second: Mistress Ribeye Explosive Death_16
+  - first:
+      213: -2052978098572846522
+    second: Mistress Ribeye Explosive Death_17
+  - first:
+      213: 4962932700274565117
+    second: Mistress Ribeye Explosive Death_18
+  - first:
+      213: -988365042608674199
+    second: Mistress Ribeye Explosive Death_19
+  - first:
+      213: 6304423595245563230
+    second: Mistress Ribeye Explosive Death_20
+  - first:
+      213: 5371907036874429618
+    second: Mistress Ribeye Explosive Death_21
+  - first:
+      213: -7215883785567355778
+    second: Mistress Ribeye Explosive Death_22
+  - first:
+      213: -5194220566086886828
+    second: Mistress Ribeye Explosive Death_23
+  - first:
+      213: -660910902396779749
+    second: Mistress Ribeye Explosive Death_24
+  - first:
+      213: 2031290224551223653
+    second: Mistress Ribeye Explosive Death_25
+  - first:
+      213: 7599639946668905632
+    second: Mistress Ribeye Explosive Death_26
+  - first:
+      213: -7472226878858276783
+    second: Mistress Ribeye Explosive Death_27
+  - first:
+      213: 9062946289927775269
+    second: Mistress Ribeye Explosive Death_28
+  - first:
+      213: 6135993146394221721
+    second: Mistress Ribeye Explosive Death_29
+  - first:
+      213: -1564372566637314514
+    second: Mistress Ribeye Explosive Death_30
+  - first:
+      213: -765895002041989179
+    second: Mistress Ribeye Explosive Death_31
+  - first:
+      213: 5798751040521212959
+    second: Mistress Ribeye Explosive Death_32
+  - first:
+      213: -1735805609466602818
+    second: Mistress Ribeye Explosive Death_33
+  - first:
+      213: -7065417151381639908
+    second: Mistress Ribeye Explosive Death_34
+  - first:
+      213: 3630323593424375761
+    second: Mistress Ribeye Explosive Death_35
+  - first:
+      213: -3103512229889806545
+    second: Mistress Ribeye Explosive Death_36
+  - first:
+      213: -7613334857062050299
+    second: Mistress Ribeye Explosive Death_37
+  - first:
+      213: 1935102763602204644
+    second: Mistress Ribeye Explosive Death_38
+  - first:
+      213: -9201371065192663761
+    second: Mistress Ribeye Explosive Death_39
+  - first:
+      213: -4400363500386624948
+    second: Mistress Ribeye Explosive Death_40
+  - first:
+      213: 8399632869186276870
+    second: Mistress Ribeye Explosive Death_41
+  - first:
+      213: 4307646726179841130
+    second: Mistress Ribeye Explosive Death_42
+  - first:
+      213: 4165879852045135372
+    second: Mistress Ribeye Explosive Death_43
+  - first:
+      213: -2308762406062445296
+    second: Mistress Ribeye Explosive Death_44
+  - first:
+      213: -7416060965557925949
+    second: Mistress Ribeye Explosive Death_45
+  - first:
+      213: -539870775234414446
+    second: Mistress Ribeye Explosive Death_46
+  - first:
+      213: -3804270281729802805
+    second: Mistress Ribeye Explosive Death_47
+  - first:
+      213: 1713873778736615905
+    second: Mistress Ribeye Explosive Death_48
+  - first:
+      213: -4552103672138381975
+    second: Mistress Ribeye Explosive Death_49
+  - first:
+      213: -9212101777815651741
+    second: Mistress Ribeye Explosive Death_50
+  - first:
+      213: 2810759502311986752
+    second: Mistress Ribeye Explosive Death_51
+  - first:
+      213: -3699761761216093896
+    second: Mistress Ribeye Explosive Death_52
+  - first:
+      213: 1454608626027291622
+    second: Mistress Ribeye Explosive Death_53
+  - first:
+      213: -571612955077986016
+    second: Mistress Ribeye Explosive Death_54
+  - first:
+      213: 1578753991757246620
+    second: Mistress Ribeye Explosive Death_55
+  - first:
+      213: -8095739800191179376
+    second: Mistress Ribeye Explosive Death_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 863
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0739b44ecf533b4d0800000000000000
+      internalID: -3120090756559432848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 895
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6453e1d58c2017600800000000000000
+      internalID: 464155296174847302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 894
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27d7c79d4063b450800000000000000
+      internalID: 6103327806392358703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 896
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cad9f891c32c3bd0800000000000000
+      internalID: -2649203166398522686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_4
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 896
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ef5cb59cfa094e0800000000000000
+      internalID: -1976886957052658135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_5
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 899
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a820e43aa3e3030800000000000000
+      internalID: 3476280435439471204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_6
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 899
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367cc4bba27baafe0800000000000000
+      internalID: -1176926958445082781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 860
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099cb992ac3df1a80800000000000000
+      internalID: -8493837506962536048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_8
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 860
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd5769e11a0bcfa0800000000000000
+      internalID: -5779514624753312269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_9
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 859
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e2dced81a76f470800000000000000
+      internalID: 8428057999906254445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_10
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 859
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2b13512807705b0800000000000000
+      internalID: -5402225524003982650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_11
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 858
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7dd4d99fb88eff0800000000000000
+      internalID: -6601495238813723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_12
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 857
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba4cfe36297170d0800000000000000
+      internalID: -3426824636279797057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 643
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a101c2358db185020800000000000000
+      internalID: 2330643423086514202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 644
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ff5776c32fb19c0800000000000000
+      internalID: -3955301506467102845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 643
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a7e1c9730ab21c0800000000000000
+      internalID: -4527348839688013227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_16
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 644
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e8bd357c74e4c50800000000000000
+      internalID: 6651332621103762979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_17
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 642
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a98e6eb4b5283e0800000000000000
+      internalID: -2052978098572846522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_18
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 642
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff19040ff0efd440800000000000000
+      internalID: 4962932700274565117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_19
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 646
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a65e6fa3f9842f0800000000000000
+      internalID: -988365042608674199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_20
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 647
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5de33c8bdfcd7750800000000000000
+      internalID: 6304423595245563230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 601
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4525b0df8dc8a40800000000000000
+      internalID: 5371907036874429618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 600
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cb1ccade70cdb90800000000000000
+      internalID: -7215883785567355778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_23
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 601
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45adc515aeb6ae7b0800000000000000
+      internalID: -5194220566086886828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_24
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 600
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1305723909f3d6f0800000000000000
+      internalID: -660910902396779749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_25
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 598
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561691e62b7903c10800000000000000
+      internalID: 2031290224551223653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_26
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 596
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a491125448577960800000000000000
+      internalID: 7599639946668905632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_27
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 599
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150d6844e315d4890800000000000000
+      internalID: -7472226878858276783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_28
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 601
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524e69512ad06cd70800000000000000
+      internalID: 9062946289927775269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 389
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c1f0bb14d672550800000000000000
+      internalID: 6135993146394221721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 391
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e7735607b3a4ae0800000000000000
+      internalID: -1564372566637314514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_31
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 387
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c74a04bd8efe55f0800000000000000
+      internalID: -765895002041989179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_32
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 387
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f149137295d497050800000000000000
+      internalID: 5798751040521212959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_33
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 384
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebadc90befd29e7e0800000000000000
+      internalID: -1735805609466602818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_34
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 384
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1de1f5f88892fd90800000000000000
+      internalID: -7065417151381639908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_35
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 382
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df87cde210816230800000000000000
+      internalID: 3630323593424375761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_36
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 382
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f665de11c1ee4d0800000000000000
+      internalID: -3103512229889806545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_37
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 346
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50697b0e840085690800000000000000
+      internalID: -7613334857062050299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 345
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7d26cf5bddada10800000000000000
+      internalID: 1935102763602204644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_39
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 345
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2532a464c92e4080800000000000000
+      internalID: -9201371065192663761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_40
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 345
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a5cd4e5b4cee2c0800000000000000
+      internalID: -4400363500386624948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_41
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 343
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e0b83679d719470800000000000000
+      internalID: 8399632869186276870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_42
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 347
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64e2d3efd5d7cb30800000000000000
+      internalID: 4307646726179841130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_43
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 339
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e6b1657ad20d930800000000000000
+      internalID: 4165879852045135372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_44
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 340
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d2fd3f2d0a5ffd0800000000000000
+      internalID: -2308762406062445296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_45
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 120
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7874308dbd41990800000000000000
+      internalID: -7416060965557925949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 123
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298b989e36ef188f0800000000000000
+      internalID: -539870775234414446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_47
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 117
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd7beba554843bc0800000000000000
+      internalID: -3804270281729802805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_48
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 117
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1d37b0f17e8c710800000000000000
+      internalID: 1713873778736615905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_49
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 85
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965c07904dda3d0c0800000000000000
+      internalID: -4552103672138381975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_50
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 84
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36abd8aad3a082080800000000000000
+      internalID: -9212101777815651741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_51
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 92
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0461c5410e2d10720800000000000000
+      internalID: 2810759502311986752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_52
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 103
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8312425c74ec7acc0800000000000000
+      internalID: -3699761761216093896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_53
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 78
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e36399a6decf2410800000000000000
+      internalID: 1454608626027291622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_54
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 80
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029b09fbb093118f0800000000000000
+      internalID: -571612955077986016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_55
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90bb62146cd8e510800000000000000
+      internalID: 1578753991757246620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistress Ribeye Explosive Death_56
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 67
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095ec977b8726af80800000000000000
+      internalID: -8095739800191179376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

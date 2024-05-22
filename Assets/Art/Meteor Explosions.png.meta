@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: 27059eed5b144944a8d1c8da0b84f66f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6822919697373366278
+    second: Meteor Explosions_0
+  - first:
+      213: 497652219282636152
+    second: Meteor Explosions_1
+  - first:
+      213: -8679847064326893567
+    second: Meteor Explosions_2
+  - first:
+      213: 2140759697081060594
+    second: Meteor Explosions_3
+  - first:
+      213: 5276089769291002524
+    second: Meteor Explosions_4
+  - first:
+      213: -7482131131570325656
+    second: Meteor Explosions_5
+  - first:
+      213: -2373336123513266602
+    second: Meteor Explosions_6
+  - first:
+      213: -2074325780151172333
+    second: Meteor Explosions_7
+  - first:
+      213: 9136297580474906297
+    second: Meteor Explosions_8
+  - first:
+      213: 9025811176132284751
+    second: Meteor Explosions_9
+  - first:
+      213: 7530778494484383014
+    second: Meteor Explosions_10
+  - first:
+      213: -8894901129200327936
+    second: Meteor Explosions_11
+  - first:
+      213: -1508699903038717760
+    second: Meteor Explosions_12
+  - first:
+      213: 2879518883601772758
+    second: Meteor Explosions_13
+  - first:
+      213: -2076081488744394
+    second: Meteor Explosions_14
+  - first:
+      213: 4541968491402328369
+    second: Meteor Explosions_15
+  - first:
+      213: -4046831585713858552
+    second: Meteor Explosions_16
+  - first:
+      213: 2493210972192905841
+    second: Meteor Explosions_17
+  - first:
+      213: -5873170843954902483
+    second: Meteor Explosions_18
+  - first:
+      213: 8400633824694857574
+    second: Meteor Explosions_19
+  - first:
+      213: 2836283406177514477
+    second: Meteor Explosions_20
+  - first:
+      213: 4423312233628166123
+    second: Meteor Explosions_21
+  - first:
+      213: -8298524058582121731
+    second: Meteor Explosions_22
+  - first:
+      213: -8731985473999974408
+    second: Meteor Explosions_23
+  - first:
+      213: -8951916100019988465
+    second: Meteor Explosions_24
+  - first:
+      213: -1555942211541714567
+    second: Meteor Explosions_25
+  - first:
+      213: -3495563525659104713
+    second: Meteor Explosions_26
+  - first:
+      213: -2962330505883611539
+    second: Meteor Explosions_27
+  - first:
+      213: 6978894933664450848
+    second: Meteor Explosions_28
+  - first:
+      213: 4136610780304220802
+    second: Meteor Explosions_29
+  - first:
+      213: -2219753159729463298
+    second: Meteor Explosions_30
+  - first:
+      213: -4583227837446509039
+    second: Meteor Explosions_31
+  - first:
+      213: -5632453193648320883
+    second: Meteor Explosions_32
+  - first:
+      213: 7136329996564934658
+    second: Meteor Explosions_33
+  - first:
+      213: 5099557247247423561
+    second: Meteor Explosions_34
+  - first:
+      213: -803461265535515340
+    second: Meteor Explosions_35
+  - first:
+      213: 6838761072674979406
+    second: Meteor Explosions_36
+  - first:
+      213: -6377121823329439360
+    second: Meteor Explosions_37
+  - first:
+      213: 2170264959647425428
+    second: Meteor Explosions_38
+  - first:
+      213: 3272404860265918030
+    second: Meteor Explosions_39
+  - first:
+      213: -4723279888918506348
+    second: Meteor Explosions_40
+  - first:
+      213: 5761106832606441637
+    second: Meteor Explosions_41
+  - first:
+      213: -5500312264837106002
+    second: Meteor Explosions_42
+  - first:
+      213: -3909929336303400753
+    second: Meteor Explosions_43
+  - first:
+      213: 5304302364698893518
+    second: Meteor Explosions_44
+  - first:
+      213: 277389505691605278
+    second: Meteor Explosions_45
+  - first:
+      213: -7312728109955525164
+    second: Meteor Explosions_46
+  - first:
+      213: 1177876427113136563
+    second: Meteor Explosions_47
+  - first:
+      213: 7640687272172311832
+    second: Meteor Explosions_48
+  - first:
+      213: 3455475448600977346
+    second: Meteor Explosions_49
+  - first:
+      213: -3180533531793934821
+    second: Meteor Explosions_50
+  - first:
+      213: 2889561577861547433
+    second: Meteor Explosions_51
+  - first:
+      213: 1721815020703056416
+    second: Meteor Explosions_52
+  - first:
+      213: 562769089084145048
+    second: Meteor Explosions_53
+  - first:
+      213: 998479639791612718
+    second: Meteor Explosions_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Meteor Explosions_0
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 6
+        width: 321
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60884fcb051efae50800000000000000
+      internalID: 6822919697373366278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_1
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 115
+        width: 193
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87db6088e0408e600800000000000000
+      internalID: 497652219282636152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_2
+      rect:
+        serializedVersion: 2
+        x: 4469
+        y: 296
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1001412351dfa8780800000000000000
+      internalID: -8679847064326893567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_3
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 306
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc4dfd2a9185bd10800000000000000
+      internalID: 2140759697081060594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_4
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 320
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92b9a5f0bf683940800000000000000
+      internalID: 5276089769291002524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_5
+      rect:
+        serializedVersion: 2
+        x: 5321
+        y: 282
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867fbdbb0612a2890800000000000000
+      internalID: -7482131131570325656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_6
+      rect:
+        serializedVersion: 2
+        x: 5374
+        y: 303
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e9361ce57301fd0800000000000000
+      internalID: -2373336123513266602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_7
+      rect:
+        serializedVersion: 2
+        x: 5393
+        y: 312
+        width: 131
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31387a571b38633e0800000000000000
+      internalID: -2074325780151172333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_8
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 253
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6b7764e36aace70800000000000000
+      internalID: 9136297580474906297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_9
+      rect:
+        serializedVersion: 2
+        x: 4462
+        y: 248
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f419d13a17f124d70800000000000000
+      internalID: 9025811176132284751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_10
+      rect:
+        serializedVersion: 2
+        x: 4491
+        y: 218
+        width: 31
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62584e51423b28860800000000000000
+      internalID: 7530778494484383014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_11
+      rect:
+        serializedVersion: 2
+        x: 4546
+        y: 227
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0032bc9dc86fe8480800000000000000
+      internalID: -8894901129200327936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_12
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 266
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c006be7e65001be0800000000000000
+      internalID: -1508699903038717760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_13
+      rect:
+        serializedVersion: 2
+        x: 4660
+        y: 235
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0fc151b2b16f720800000000000000
+      internalID: 2879518883601772758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_14
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 252
+        width: 73
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630b65c90df98fff0800000000000000
+      internalID: -2076081488744394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_15
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 272
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1397d0f4740580f30800000000000000
+      internalID: 4541968491402328369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_16
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 5
+        width: 205
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808d1b32d14c6d7c0800000000000000
+      internalID: -4046831585713858552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_17
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 226
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a1aab6b2aa99220800000000000000
+      internalID: 2493210972192905841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_18
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 236
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a03ec1c3e4e7ea0800000000000000
+      internalID: -5873170843954902483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_19
+      rect:
+        serializedVersion: 2
+        x: 5289
+        y: 238
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f611184fb059470800000000000000
+      internalID: 8400633824694857574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_20
+      rect:
+        serializedVersion: 2
+        x: 5323
+        y: 189
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3bb8b0bb08c5720800000000000000
+      internalID: 2836283406177514477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_21
+      rect:
+        serializedVersion: 2
+        x: 5433
+        y: 243
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7eb007a03c26d30800000000000000
+      internalID: 4423312233628166123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_22
+      rect:
+        serializedVersion: 2
+        x: 5494
+        y: 225
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df20e201658b5dc80800000000000000
+      internalID: -8298524058582121731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_23
+      rect:
+        serializedVersion: 2
+        x: 5528
+        y: 199
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff4c56b971c1d680800000000000000
+      internalID: -8731985473999974408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_24
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 7
+        width: 223
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08553f7cb764c380800000000000000
+      internalID: -8951916100019988465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_25
+      rect:
+        serializedVersion: 2
+        x: 5497
+        y: 208
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97935066dce286ae0800000000000000
+      internalID: -1555942211541714567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_26
+      rect:
+        serializedVersion: 2
+        x: 5327
+        y: 174
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ae6436e734d7fc0800000000000000
+      internalID: -3495563525659104713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_27
+      rect:
+        serializedVersion: 2
+        x: 5503
+        y: 183
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e01899910b3e6d0800000000000000
+      internalID: -2962330505883611539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_28
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 54
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029c7d567f30ad060800000000000000
+      internalID: 6978894933664450848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_29
+      rect:
+        serializedVersion: 2
+        x: 3706
+        y: 106
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282a5168691386930800000000000000
+      internalID: 4136610780304220802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_30
+      rect:
+        serializedVersion: 2
+        x: 3833
+        y: 105
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff3641134ad131e0800000000000000
+      internalID: -2219753159729463298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_31
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 116
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ea158909a1560c0800000000000000
+      internalID: -4583227837446509039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_32
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 7
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ec39299a185d1b0800000000000000
+      internalID: -5632453193648320883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_33
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 91
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200b73d6256590360800000000000000
+      internalID: 7136329996564934658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_34
+      rect:
+        serializedVersion: 2
+        x: 3892
+        y: 80
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94893f93c4445c640800000000000000
+      internalID: 5099557247247423561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_35
+      rect:
+        serializedVersion: 2
+        x: 4475
+        y: 78
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43548f46c3889d4f0800000000000000
+      internalID: -803461265535515340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_36
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 92
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ebf8856f828ee50800000000000000
+      internalID: 6838761072674979406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_37
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081be073d79ef77a0800000000000000
+      internalID: -6377121823329439360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_38
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 25
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49323447b745e1e10800000000000000
+      internalID: 2170264959647425428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_39
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 53
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e6969e1eae96d20800000000000000
+      internalID: 3272404860265918030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_40
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 25
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494144e47f9837eb0800000000000000
+      internalID: -4723279888918506348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_41
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0359ef32093ff40800000000000000
+      internalID: 5761106832606441637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_42
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 64
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6f8a41327faa3b0800000000000000
+      internalID: -5500312264837106002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_43
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 34
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8c1ccfbf32db9c0800000000000000
+      internalID: -3909929336303400753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_44
+      rect:
+        serializedVersion: 2
+        x: 4676
+        y: 61
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc5425b5eaac9940800000000000000
+      internalID: 5304302364698893518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_45
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 31
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e195b27294c79d300800000000000000
+      internalID: 277389505691605278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_46
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5561b4788f38a90800000000000000
+      internalID: -7312728109955525164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_47
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 7
+        width: 162
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1826bae58a85010800000000000000
+      internalID: 1177876427113136563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_48
+      rect:
+        serializedVersion: 2
+        x: 3769
+        y: 27
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815dda9879c290a60800000000000000
+      internalID: 7640687272172311832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_49
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 31
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfd1f3dc9054ff20800000000000000
+      internalID: 3455475448600977346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_50
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 27
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b163431aa997cd3d0800000000000000
+      internalID: -3180533531793934821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_51
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 23
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a50e0d02f8c91820800000000000000
+      internalID: 2889561577861547433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_52
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 21
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02200f583ad15e710800000000000000
+      internalID: 1721815020703056416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_53
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 21
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d3e6d318b5fc700800000000000000
+      internalID: 562769089084145048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions_54
+      rect:
+        serializedVersion: 2
+        x: 4474
+        y: 33
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e233d3531ff4bdd00800000000000000
+      internalID: 998479639791612718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
