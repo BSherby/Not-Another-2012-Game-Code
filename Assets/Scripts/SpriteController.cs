@@ -4,22 +4,16 @@ using UnityEngine;
 
 public class SpriteController : MonoBehaviour
 {
-    // Adjust the movement speed
     public float moveSpeed = 5.0f;
-    // Adjust the rotation speed
     public float rotationSpeed = 10.0f;
-    // Adjust the jump force
     public float jumpForce = 5.0f;
-    // A point representing where to check for the ground
     public Transform[] groundChecks;
-    // The radius of the ground check
     public float groundCheckRadius = 0.2f;
-    // Layer used to identify the ground
     public LayerMask groundLayer;
-    //Defining boundary variables
-    public float leftBoundary = -7f;
-    public float rightBoundary = 9f;
-
+    public float leftBoundary = -8.2f;
+    public float rightBoundary = 10.6f;
+    
+    private Rigidbody2D rb;
     private bool isGrounded;
     private bool IsGrounded()
     {
@@ -27,24 +21,27 @@ public class SpriteController : MonoBehaviour
         {
             if (Physics2D.OverlapCircle(checkPoint.position, groundCheckRadius, groundLayer))
             {
-                return true; //Return true as soon as one of the checks finds ground
+                return true;
             }
         }
-        return false; //Return false if none of the checks find ground
+        return false;
     }
-    private Animator animator; // Reference to the Animator component
-    private float jumpBufferTime = 0.01f; //100ms to buffer jump
-    private float lastJumpInputTime = -0.1f;
+    private Animator animator;
+    private float jumpBufferTime = 0f;
+    private float lastJumpInputTime = 0f;
+    private bool canMove = true;
 
     // Start is called before the first frame update
     void Start()
     {
         animator = GetComponent<Animator>();
+        rb = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (!canMove) return;
         isGrounded = IsGrounded();
 
         // Ground check
@@ -54,11 +51,10 @@ public class SpriteController : MonoBehaviour
             if (Physics2D.OverlapCircle(checkPoint.position, groundCheckRadius, groundLayer))
             {
                 isGrounded = true;
-                break; //If any ground check is true, set isGrounded to true and exit loop
+                break;
             }
         }
 
-        // Get player input for movement
         float horizontalInput = Input.GetAxis("Horizontal");
         float verticalInput = Input.GetAxis("Vertical");
 
@@ -94,7 +90,6 @@ public class SpriteController : MonoBehaviour
             lastJumpInputTime = -0.1f; //Reset Buffer
         }
 
-        // Check if movement vector is not zero
         if (movement != Vector2.zero)
         {
             // Calculate angle towards movement direction
@@ -106,28 +101,21 @@ public class SpriteController : MonoBehaviour
             transform.rotation = Quaternion.RotateTowards(transform.rotation, targetRotation, rotationSpeed * Time.deltaTime);
         }
 
-        // Apply movement
         transform.position += (Vector3)movement.normalized * moveSpeed * Time.deltaTime;
 
-        //Apply movement
         transform.position += (Vector3)movement.normalized * moveSpeed * Time.deltaTime;
 
-        //Clamping the sprite's position within the specified boundaries
         transform.position = new Vector3(Mathf.Clamp(transform.position.x, leftBoundary, rightBoundary), transform.position.y, transform.position.z);
     }
 
     void OnDrawGizmosSelected()
     {
-        // Check if the groundChecks array is not null and has elements
         if (groundChecks != null && groundChecks.Length > 0)
         {
-            //Set the Gizmo color to red
             Gizmos.color = Color.red;
 
-            //Iterate through each Transform in the groundChecks array
             foreach (Transform checkPoint in groundChecks)
             {
-                //For each, draw a wire sphere at the checkPoint's position with the specified radius
                 Gizmos.DrawWireSphere(checkPoint.position, groundCheckRadius);
             }
         }
@@ -140,7 +128,15 @@ public class SpriteController : MonoBehaviour
 
     void Jump()
     {
-        //Apply jump force
+       
     }
 
+    public void StopMovement()
+    {
+        rb.velocity = Vector2.zero;
+    }
+    public void AllowMovement()
+    {
+        canMove = true;
+    }
 }

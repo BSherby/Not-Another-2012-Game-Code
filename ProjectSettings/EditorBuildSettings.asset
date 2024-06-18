@@ -6,7 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Prefabs/Particle Effect Prefabs/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Scenes/Start Screen.unity
+    guid: 0bbede9834cd8254f9c0e1e7793548e1
+  - enabled: 1
+    path: Assets/Scenes/Intro Story.unity
+    guid: 06630ef3744b1784dac1948416c68bd8
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 7621b2bdaa12dab4c83e7b3639944fe7
+  - enabled: 1
+    path: Assets/Scenes/Game Completion.unity
+    guid: a59098520ee2b7444986d176e00d8f02
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

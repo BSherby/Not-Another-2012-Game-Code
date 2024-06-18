@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: dce884d6c5df9ca4cbde359fc753278f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3445758404648881412
+    second: Meteor Explosions.2_0
+  - first:
+      213: -7676365602431470370
+    second: Meteor Explosions.2_1
+  - first:
+      213: 5905285366148350445
+    second: Meteor Explosions.2_2
+  - first:
+      213: 4689614824161788167
+    second: Meteor Explosions.2_3
+  - first:
+      213: 5168014817423611685
+    second: Meteor Explosions.2_4
+  - first:
+      213: 7739245878268801241
+    second: Meteor Explosions.2_5
+  - first:
+      213: 6790480667659330752
+    second: Meteor Explosions.2_6
+  - first:
+      213: -1116173920739477059
+    second: Meteor Explosions.2_7
+  - first:
+      213: 8286644790877008663
+    second: Meteor Explosions.2_8
+  - first:
+      213: 858945654163103385
+    second: Meteor Explosions.2_9
+  - first:
+      213: 5488085231453606232
+    second: Meteor Explosions.2_10
+  - first:
+      213: -1424897529485456373
+    second: Meteor Explosions.2_11
+  - first:
+      213: 6957685927720908660
+    second: Meteor Explosions.2_12
+  - first:
+      213: -8653027380534746422
+    second: Meteor Explosions.2_13
+  - first:
+      213: -1237929452056435040
+    second: Meteor Explosions.2_14
+  - first:
+      213: -8078992475121252309
+    second: Meteor Explosions.2_15
+  - first:
+      213: 4079975268597170515
+    second: Meteor Explosions.2_16
+  - first:
+      213: -280592478930588591
+    second: Meteor Explosions.2_17
+  - first:
+      213: 6968285707760421237
+    second: Meteor Explosions.2_18
+  - first:
+      213: -2306208378200421573
+    second: Meteor Explosions.2_19
+  - first:
+      213: -994269985074537859
+    second: Meteor Explosions.2_20
+  - first:
+      213: 4094429294551412603
+    second: Meteor Explosions.2_21
+  - first:
+      213: -7556969143248471911
+    second: Meteor Explosions.2_22
+  - first:
+      213: -3934253536483029765
+    second: Meteor Explosions.2_23
+  - first:
+      213: 3696593543707017668
+    second: Meteor Explosions.2_24
+  - first:
+      213: 3057212571427699366
+    second: Meteor Explosions.2_25
+  - first:
+      213: 1455140092043763353
+    second: Meteor Explosions.2_26
+  - first:
+      213: -9222483896008373896
+    second: Meteor Explosions.2_27
+  - first:
+      213: 6435928023852182851
+    second: Meteor Explosions.2_28
+  - first:
+      213: 4767779316738241315
+    second: Meteor Explosions.2_29
+  - first:
+      213: -5206805210895132025
+    second: Meteor Explosions.2_30
+  - first:
+      213: -4531591826645946358
+    second: Meteor Explosions.2_31
+  - first:
+      213: -2432864237349966425
+    second: Meteor Explosions.2_32
+  - first:
+      213: -4429594744479099888
+    second: Meteor Explosions.2_33
+  - first:
+      213: -5260268392154447404
+    second: Meteor Explosions.2_34
+  - first:
+      213: 7320448304212236842
+    second: Meteor Explosions.2_35
+  - first:
+      213: -7563302550981946098
+    second: Meteor Explosions.2_36
+  - first:
+      213: -7876948578263594481
+    second: Meteor Explosions.2_37
+  - first:
+      213: 4006012653044314052
+    second: Meteor Explosions.2_38
+  - first:
+      213: -2336017993415503671
+    second: Meteor Explosions.2_39
+  - first:
+      213: -123288732066530150
+    second: Meteor Explosions.2_40
+  - first:
+      213: 1907801406175418239
+    second: Meteor Explosions.2_41
+  - first:
+      213: 376489768463508401
+    second: Meteor Explosions.2_42
+  - first:
+      213: 2924453990934652694
+    second: Meteor Explosions.2_43
+  - first:
+      213: -3265706414174292616
+    second: Meteor Explosions.2_44
+  - first:
+      213: 8436554237170090169
+    second: Meteor Explosions.2_45
+  - first:
+      213: -6525337688897040677
+    second: Meteor Explosions.2_46
+  - first:
+      213: 312523186759220007
+    second: Meteor Explosions.2_47
+  - first:
+      213: -1762250821369482396
+    second: Meteor Explosions.2_48
+  - first:
+      213: 5452889388291672997
+    second: Meteor Explosions.2_49
+  - first:
+      213: 6319512919877679020
+    second: Meteor Explosions.2_50
+  - first:
+      213: -997426170599805300
+    second: Meteor Explosions.2_51
+  - first:
+      213: -8741338060795317781
+    second: Meteor Explosions.2_52
+  - first:
+      213: 717476604267001628
+    second: Meteor Explosions.2_53
+  - first:
+      213: 111965611998978099
+    second: Meteor Explosions.2_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Meteor Explosions.2_0
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 5045
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dc9ea330bc1df20800000000000000
+      internalID: 3445758404648881412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions.2_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 4206
+        width: 223
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed47b0dd722187590800000000000000
+      internalID: -7676365602431470370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions.2_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3365
+        width: 232
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1c592c0c9c3f150800000000000000
+      internalID: 5905285366148350445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions.2_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2527
+        width: 324
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701c19ff5dbd41140800000000000000
+      internalID: 4689614824161788167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions.2_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1685
+        width: 342
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5275d7a581a78b740800000000000000
+      internalID: 5168014817423611685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions.2_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 867
+        width: 241
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d03e9b3f13576b60800000000000000
+      internalID: 7739245878268801241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Explosions.2_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 172
+        width: 275
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4edf19032ac3e50800000000000000
+      internalID: 6790480667659330752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 480a0338b7ca31741acb9e0388581d14
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Meteor Explosions.2_0: 3445758404648881412
+      Meteor Explosions.2_1: -7676365602431470370
+      Meteor Explosions.2_2: 5905285366148350445
+      Meteor Explosions.2_3: 4689614824161788167
+      Meteor Explosions.2_4: 5168014817423611685
+      Meteor Explosions.2_5: 7739245878268801241
+      Meteor Explosions.2_6: 6790480667659330752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -5,6 +5,17 @@ TagManager:
   serializedVersion: 2
   tags:
   - Deadly
+  - Ground
+  - SkyTile
+  - BloodBlock
+  - Meteor
+  - DeathCard
+  - Checkpoint
+  - SkyTile.NoSC
+  - MusicSource
+  - ExplosionSFX
+  - HitBlockSFX2
+  - HitBlockSFX1
   layers:
   - Default
   - TransparentFX
@@ -14,7 +25,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - CameraBounds
   - 
   - 
   - 

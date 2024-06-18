@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: a62a2b3e26839194d99915f8401c1df4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4336621842836495684
+    second: Med. Meteors Animated_0
+  - first:
+      213: -7974923740901404461
+    second: Med. Meteors Animated_1
+  - first:
+      213: 1766465207965230762
+    second: Med. Meteors Animated_2
+  - first:
+      213: 4494168461800286605
+    second: Med. Meteors Animated_3
+  - first:
+      213: 6700676786537028497
+    second: Med. Meteors Animated_4
+  - first:
+      213: -5877194688284270087
+    second: Med. Meteors Animated_5
+  - first:
+      213: -6445942120761697438
+    second: Med. Meteors Animated_6
+  - first:
+      213: -3437436732730931757
+    second: Med. Meteors Animated_7
+  - first:
+      213: -5152045855565411349
+    second: Med. Meteors Animated_8
+  - first:
+      213: -7161892362498685344
+    second: Med. Meteors Animated_9
+  - first:
+      213: -4510984333153746654
+    second: Med. Meteors Animated_10
+  - first:
+      213: -925254238322953000
+    second: Med. Meteors Animated_11
+  - first:
+      213: -7287904490521338135
+    second: Med. Meteors Animated_12
+  - first:
+      213: 4056174812574379742
+    second: Med. Meteors Animated_13
+  - first:
+      213: -3482427442297675186
+    second: Med. Meteors Animated_14
+  - first:
+      213: -4662029877148410430
+    second: Med. Meteors Animated_15
+  - first:
+      213: -5840874309247668706
+    second: Med. Meteors Animated_16
+  - first:
+      213: 4862949743654047964
+    second: Med. Meteors Animated_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Med. Meteors Animated_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 44
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752cac752fba2254480e7a7ea42c1a4c
+      internalID: -34261113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Med. Meteors Animated_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 39
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e816fdaf73e06745a32d2cba6eb8998
+      internalID: 1406731390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Med. Meteors Animated_2
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 37
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a4171bb61dbc04c8f99cc696a5b52b
+      internalID: 2105243440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Med. Meteors Animated_3
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 35
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a248181f01ac2084d96bc9f2c6f11da3
+      internalID: -465404217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Med. Meteors Animated_4
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 35
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85137a1fecd435e40b6a121e51883d4f
+      internalID: 6813731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Med. Meteors Animated_5
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 33
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecfb61076a1c9841bcfd1a7831df3bf
+      internalID: -434362790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Med. Meteors Animated_6
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 30
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708f6c82de7024d4bba41d07f82f06b0
+      internalID: 1443667790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Med. Meteors Animated_7
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 28
+        width: 70
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed7862255c852c4a8477de3f692a923
+      internalID: 1724373357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Med. Meteors Animated_8
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 37
+        width: 64
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da953192ea78cca4b8f2523c2ebf045f
+      internalID: 738477074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Med. Meteors Animated_9
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 37
+        width: 67
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc266cf0b747f514aa84a2546ce8a459
+      internalID: 390357488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Med. Meteors Animated_10
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 37
+        width: 68
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89a68b9e5e9518438ac841954c9d303
+      internalID: 1093264806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Med. Meteors Animated_11
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 37
+        width: 65
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f337523debcce42850f1fa1945a286
+      internalID: -649294011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Med. Meteors Animated_12
+      rect:
+        serializedVersion: 2
+        x: 3160
+        y: 37
+        width: 68
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa344ba797e88cb429ca7e83c200f30b
+      internalID: 1279305477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Med. Meteors Animated_13
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 37
+        width: 67
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001653bfafcdca54e95eb8ea946c2265
+      internalID: 57254773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Med. Meteors Animated_14
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 37
+        width: 68
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7ac8dd925b93046904b0a9dd0bfeab
+      internalID: 789479393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Med. Meteors Animated_15
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 37
+        width: 65
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1885e3d95167f2f48b878b1c35e71d47
+      internalID: -214869037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Med. Meteors Animated_16
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 37
+        width: 65
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62123fb7fed74674bb55587cb8d95bdf
+      internalID: 272448565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Med. Meteors Animated_17
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 37
+        width: 68
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce74894595451344eaae72bf80cf5464
+      internalID: 195509131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9c1a82956b9e8d045b7da5b2d1e674ea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Med. Meteors Animated_0: -34261113
+      Med. Meteors Animated_1: 1406731390
+      Med. Meteors Animated_10: 1093264806
+      Med. Meteors Animated_11: -649294011
+      Med. Meteors Animated_12: 1279305477
+      Med. Meteors Animated_13: 57254773
+      Med. Meteors Animated_14: 789479393
+      Med. Meteors Animated_15: -214869037
+      Med. Meteors Animated_16: 272448565
+      Med. Meteors Animated_17: 195509131
+      Med. Meteors Animated_2: 2105243440
+      Med. Meteors Animated_3: -465404217
+      Med. Meteors Animated_4: 6813731
+      Med. Meteors Animated_5: -434362790
+      Med. Meteors Animated_6: 1443667790
+      Med. Meteors Animated_7: 1724373357
+      Med. Meteors Animated_8: 738477074
+      Med. Meteors Animated_9: 390357488
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
